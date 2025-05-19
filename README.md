@@ -17,7 +17,7 @@ The full research paper — *Predicting Cardiovascular Disease Using Classificat
 
 ## Summary
 
-We evaluated six classification models (logistic regression, decision trees, random forest, KNN, XGBoost, CatBoost) using a dataset of ~70,000 patients. Engineered clinical features and ensemble learning (stacking and soft voting) significantly improved performance. The best model achieved a ROC-AUC of **0.805** on the test set.
+We evaluated six classification models (logistic regression, decision trees, random forest, KNN, XGBoost, CatBoost) using a dataset of ~70,000 datapoints. Engineered clinical features and ensemble learning (stacking and soft voting) significantly improved performance. The best model achieved a ROC-AUC of **0.805** on the test set.
 
 ---
 
