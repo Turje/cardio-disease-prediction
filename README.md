@@ -23,4 +23,4 @@ We evaluated six classification models (logistic regression, decision trees, ran
 
 **Authors:** Saar Turjeman, Safal Thapa  
 **Course:** Applied Machine Learning, 2025  
-**Institution:** The City College of New York
+**Institution:** The City College of New York, Department of Data Science and Engineering
