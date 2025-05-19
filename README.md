@@ -1,6 +1,6 @@
 # Predicting Cardiovascular Disease Using Machine Learning and Ensemble Learning
 
-This repository contains the final project for the **Applied Machine Learning** course at The City College of New York.
+This repository contains the final project for the **Applied Machine Learning** graduate course at The City College of New York.
 
 ## 📄 Project Report
 
