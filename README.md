@@ -6,7 +6,7 @@ This repository contains the final project for the **Applied Machine Learning** 
 
 The full research paper — *Predicting Cardiovascular Disease Using Classification Models and Ensemble Learning* — outlines our methodology, feature engineering, modeling, and results in detail.
 
-[Read the full report (PDF)](./Predicting_Cardiovascular_disease_using_classification_models.pdf)
+[Read the full report](./Predicting_Cardiovascular_disease_using_classification_models.pdf)
 
 # Contents
 
