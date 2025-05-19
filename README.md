@@ -2,7 +2,7 @@
 
 This repository contains the final project for the **Applied Machine Learning** graduate course at The City College of New York.
 
-## 📄 Project Report
+## Project Report
 
 The full research paper — *Predicting Cardiovascular Disease Using Classification Models and Ensemble Learning* — outlines our methodology, feature engineering, modeling, and results in detail.
 
